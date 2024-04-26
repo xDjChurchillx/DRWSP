@@ -1,2 +1,2 @@
 # DRWSP
-Pasword Manager
+Password Manager
